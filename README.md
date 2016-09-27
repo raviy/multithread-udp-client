@@ -1,5 +1,5 @@
 # multithread-udp-client
 
-Intialize with snder and reciever ip and port
-Multiple send and recieve functions
-Recieving in different thread
+#Intialize with sender and reciever ip and port
+#Multiple send and recieve functions
+#Reception in different thread
